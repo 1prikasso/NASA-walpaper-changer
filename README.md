@@ -1,2 +1,2 @@
 # NASA-walpaper-changer
-daily change your desktop wallpaper to nasas photo of a day
+just start this program in the termianl, and watch the perfect of a space..
